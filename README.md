@@ -1,11 +1,6 @@
 # Hi! My name is Henok Samson 👋
 
-🌍 I am a Full-stack Software Engineer based in Addis Ababa, Ethiopia.
-
-### Work experience 
-
-* 🚀 Co-Founder  at Unity Link Solutions
-* 🚀 Founder & former CEO at Aksumite Platforms
+### 🌍 I am a Full-stack Software Engineer | 🚀 Co-Founder at Unity Link Solutions |🚀 Founder and former CEO of Aksumite Platforms based in Addis Ababa, Ethiopia.
 
 
 ### Language
