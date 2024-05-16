@@ -1,8 +1,12 @@
-Hi! My name is Henok Samson 
-========================================================================================================================================
+# Hi! My name is Henok Samson 👋
 
-🌍  I am a Full-stack Software Engineer based in Addis Ababa, Ethiopia.
-<br/>
+🌍 I am a Full-stack Software Engineer based in Addis Ababa, Ethiopia.
+
+### Work experience 
+
+* 🚀 Co-Founder  at Unity Link Solutions
+* 🚀 Founder & former CEO at Aksumite Platforms
+
 
 ### Language
 
@@ -10,12 +14,9 @@ Hi! My name is Henok Samson
 <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=py,django)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-<br/>
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=emacs)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
-<br/>
 
 ### Social
 <div id="badges">
