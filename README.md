@@ -1,4 +1,4 @@
-Hi! My name is Henok Samson 😄
+Hi! My name is Henok Samson 
 ========================================================================================================================================
 
 🌍  I am a Full-stack Software Engineer based in Addis Ababa, Ethiopia.
