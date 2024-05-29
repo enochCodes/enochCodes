@@ -22,3 +22,5 @@
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
+
+[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1/project/018eca7f-c813-4633-98e0-caa0c65bafa3.svg)](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1/project/018eca7f-c813-4633-98e0-caa0c65bafa3)
