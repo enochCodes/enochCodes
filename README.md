@@ -1,6 +1,6 @@
 # Hi! My name is Henok Samson 👋
 
-#### 🌍 I am a Full-stack Software Engineer | 🚀 Co-Founder at Unity Link Solutions | based in Addis Ababa, Ethiopia.
+#### 🌍 I am a Software Engineer | 🚀 Co-Founder of Unity Link Solutions | based in Addis Ababa, Ethiopia.
 
 
 ### Language
