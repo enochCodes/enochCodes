@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/enochcodes"><img src="https://api.daily.dev/devcards/v2/n8vV3trFGI8x1IZ5GGCUL.png?type=wide&r=trw" width="652" alt="Henok Samson's Dev Card"/></a>
+
+
 # Hi! My name is Henok Samson 👋
 
 #### 🌍 I am a Software Engineer | 🚀 Co-Founder of Unity Link Solutions | based in Addis Ababa, Ethiopia.
