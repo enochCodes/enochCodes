@@ -6,7 +6,7 @@
 #### 🌍 I am a Software Engineer | 🚀 Co-Founder of Unity Link Solutions | based in Addis Ababa, Ethiopia.
 
 # 💫 About Me:
-🔭 I’m currently working on building a startup as a Co-founder Of Unity-Link Solutions.<br>🤝 I’m seeking assistance with Blockchain technology.<br>🌱 I’m currently learning about Blockchain and cloud architecture.<br>💬 You can ask me about system and software design and development.<br>⚡ Fun fact: I am a dropout.
+🔭 I’m currently working on building a startup as a Co-founder Of Unity-Link Solutions.<br>🤝 I’m seeking assistance with Blockchain technology & Quantum Computing.<br>🌱 I’m currently learning about Blockchain and Quantum Computing.<br>💬 You can ask me about system and software design and development.<br>⚡ Fun fact: I am a dropout.
 
 
 ## 🌐 Socials:
