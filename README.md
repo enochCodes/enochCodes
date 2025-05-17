@@ -51,8 +51,25 @@ My approach is grounded in clean architecture, DevOps principles, and backend re
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=enochCodes&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=enochCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Total Code Time
+[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@2b756afe-0bc9-45e4-a011-c71cfc529ed1)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/henoksamson) • [GitHub](https://github.com/enochCodes) • [BuyMeACoffee](https://buymeacoffee.com/enochCodes)
 
 <!-- Senior GitHub profile. Minimal, clean, and professional. -->
+
+
+
