@@ -17,7 +17,7 @@ Passionate about building scalable, production-ready systems using Go, PostgreSQ
 
 ## 🧑‍💻 About Me
 
-I’m a backend-focused software engineer with 4+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
+I’m a backend-focused software engineer with 5+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
 As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ticketing platforms using clean architecture, DevOps principles, and cloud-native tools.
 
 ---
