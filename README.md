@@ -9,7 +9,7 @@
 
 # 👋 Henok Samson
 
-**Backend Engineer** | **Co-Founder, Unity Link Solutions**  
+**Backend Engineer** | **Co-Founder, Unity Link Solutions** | **Founder, Axsumite Technologies**  
 📍 Addis Ababa, Ethiopia  
 Passionate about building scalable, production-ready systems using Go, PostgreSQL, and event-driven architecture.
 
