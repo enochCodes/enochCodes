@@ -31,7 +31,7 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 **DevOps & Tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-2088FF?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -45,9 +45,7 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 
 ## 📊 GitHub Stats
 
-![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enochCodes&theme=github_dark&hide_border=true&show_icons=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enochCodes&theme=github_dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enochCodes&theme=github_dark&layout=compact&hide_border=true)
+![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enochCodes&theme=github_dark&hide_border=true&show_icons=true&count_private=true)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enochCodes&theme=github_dark&hide_border=true)
 
 ---
 
@@ -56,11 +54,6 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 ![](https://github-profile-trophy.vercel.app/?username=enochCodes&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-## 🚀 Contributions
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=enochCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ⌛ Total Code Time
 [![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@2b756afe-0bc9-45e4-a011-c71cfc529ed1)
