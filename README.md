@@ -1,15 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-bottom: 20px;">
-  <a href="https://app.daily.dev/enochcodes" target="_blank">
-    <img src="https://api.daily.dev/devcards/v2/n8vV3trFGI8x1IZ5GGCUL.png?type=wide&r=trw" width="400" alt="Henok Samson's Dev Card"/>
-  </a>
-  <a href="https://gitroll.io/profile/ur3tA8d9X6EZYToVz1pT86S9SZ2G3" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/ur3tA8d9X6EZYToVz1pT86S9SZ2G3?theme=midnight" width="400" alt="GitRoll Profile Badge"/>
-  </a>
-</div>
-
 # 👋 Henok Samson
-
-**Backend Engineer** | **Co-Founder, Unity Link Solutions** | **Founder, Axsumite Technologies**  
 📍 Addis Ababa, Ethiopia  
 Passionate about building scalable, production-ready systems using Go, PostgreSQL, and event-driven architecture.
 
@@ -17,7 +6,7 @@ Passionate about building scalable, production-ready systems using Go, PostgreSQ
 
 ## 🧑‍💻 About Me
 
-I’m a backend-focused software engineer with 5+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
+I’m a backend-focused system minded software engineer with 5+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
 As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ticketing platforms using clean architecture, DevOps principles, and cloud-native tools.
 
 ---
