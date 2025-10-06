@@ -45,8 +45,9 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 
 ## 📊 GitHub Stats
 
-![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enochCodes&theme=github_dark&hide_border=true&show_icons=true&count_private=true)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enochCodes&theme=github_dark&hide_border=true)
-
+![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enochCodes&theme=github_dark&hide_border=true&show_icons=true&count_private=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=enochCodes&theme=dark&hide_border=false)<br/>
+ 
 ---
 
 ## 🏆 GitHub Trophies
