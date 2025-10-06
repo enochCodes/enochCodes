@@ -11,7 +11,7 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Expertise Tech Stack
 
 **Languages & Tools:**
 
@@ -37,9 +37,11 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 
 **Frameworks:**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gin](https://img.shields.io/badge/gin-2496ED?style=for-the-badge&logo=gin&logoColor=white)
+![chi](https://img.shields.io/badge/chi-009688?style=for-the-badge&logo=chi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-009688?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
