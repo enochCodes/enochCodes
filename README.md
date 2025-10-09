@@ -54,7 +54,7 @@ As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ti
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=enochCodes&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=enochCodes&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
 
 ---
 
