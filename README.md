@@ -1,4 +1,6 @@
-# 👋 Henok Samson
+## Henok Samson
+Founder of Aksumite Technologies & Co-founder of Unity Link solutions
+
 📍 Addis Ababa, Ethiopia  
 Passionate about building scalable, production-ready systems using Go, PostgreSQL, and event-driven architecture.
 
@@ -7,7 +9,7 @@ Passionate about building scalable, production-ready systems using Go, PostgreSQ
 ## 🧑‍💻 About Me
 
 I’m a backend-focused system minded software engineer with 5+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
-As Co-Founder at Unity Link Solutions, I lead backend development for CRM and ticketing platforms using clean architecture, DevOps principles, and cloud-native tools.
+As Co-Founder of Unity Link Solutions, I lead backend development for CRM and ticketing platforms using clean architecture, DevOps principles, and cloud-native tools.
 
 ---
 
