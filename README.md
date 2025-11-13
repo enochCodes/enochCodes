@@ -1,6 +1,8 @@
 ## Henok Samson
 Founder of Aksumite Technologies & Co-founder of Unity Link solutions
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=enochCodes&label=Profile%20views&color=0e75b6&style=flat" alt="enochCodes" /> <a href="https://linkedin.com/in/henoksamson/">
+</p>
 📍 Addis Ababa, Ethiopia  
 Passionate about building scalable, production-ready systems using Go, PostgreSQL, and event-driven architecture.
 
