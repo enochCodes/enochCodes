@@ -1,84 +1,44 @@
-## Henok Samson
-Founder of Aksumite Technologies & Co-founder of Unity Link solutions
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=enochCodes&label=Profile%20views&color=0e75b6&style=flat" alt="enochCodes" /> <a href="https://linkedin.com/in/henoksamson/">
-</p>
-📍 Addis Ababa, Ethiopia  
-Passionate about building scalable, production-ready systems using Go, PostgreSQL, and event-driven architecture.
+#### Hi, I’m Henok (enochCodes)
 
----
+I’m a Software Engineer focused on system programming, backend systems, and infrastructure.
 
-## 🧑‍💻 About Me
+I build reliable, scalable, and production-grade software with strong interests in system design, distributed systems, low-level computing, and performance-minded engineering.
 
-I’m a backend-focused system minded software engineer with 5+ years of experience designing and building APIs, cloud infrastructure, and real-time systems.  
-As Co-Founder of Unity Link Solutions, I lead backend development for CRM and ticketing platforms using clean architecture, DevOps principles, and cloud-native tools.
+I’m currently exploring quantum computing, AI systems, and next-generation computing paradigms.
 
----
+My long-term goal is to contribute to important technologies in computing and help build systems that create real, lasting impact.
 
-## 🛠️ Expertise Tech Stack
+Reach me on [LinkedIn](https://linkedin.com/in/henoksamson).
 
-**Languages & Tools:**
+### Tech Stack
+
+**Core**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Backend & Messaging**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-222222?style=for-the-badge&logo=go&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Also Worked With**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Databases & Queues:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**DevOps & Tools:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-2088FF?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Frameworks:**
-
-![gin](https://img.shields.io/badge/gin-2496ED?style=for-the-badge&logo=gin&logoColor=white)
-![chi](https://img.shields.io/badge/chi-009688?style=for-the-badge&logo=chi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-009688?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enochCodes&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=enochCodes&theme=dark&hide_border=false)<br/>
- 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=enochCodes&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&count_private=true&include_all_commits=true&private=true)
-
----
-
-### ⌛ Total Code Time
-[![wakatime](https://wakatime.com/badge/user/2b756afe-0bc9-45e4-a011-c71cfc529ed1.svg)](https://wakatime.com/@2b756afe-0bc9-45e4-a011-c71cfc529ed1)
-
----
-
-## ✍️ Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## 📫 Contact
-
+### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henok_Samson-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henoksamson)
 [![GitHub](https://img.shields.io/badge/GitHub-enochCodes-181717?style=flat&logo=github)](https://github.com/enochCodes)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-enochCodes-F7941E?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/enochCodes)
-
----
-
-<!-- Minimal, clean, developer-focused README. Last updated by ChatGPT. -->
