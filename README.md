@@ -24,6 +24,11 @@ Reach me on [LinkedIn](https://linkedin.com/in/henoksamson).
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enochCodes&theme=dark&hide_border=true" />
+</p>
+
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henok_Samson-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henoksamson)
 [![GitHub](https://img.shields.io/badge/GitHub-enochCodes-181717?style=flat&logo=github)](https://github.com/enochCodes)
