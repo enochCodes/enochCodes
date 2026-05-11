@@ -31,4 +31,3 @@ Reach me on [LinkedIn](https://linkedin.com/in/henoksamson).
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henok_Samson-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henoksamson)
-[![GitHub](https://img.shields.io/badge/GitHub-enochCodes-181717?style=flat&logo=github)](https://github.com/enochCodes)
