@@ -1,4 +1,4 @@
-#### Hi,🖐️ I’m Henok (enochCodes)
+#### Hi, I’m Henok (enochCodes)
 
 I’m a Software Engineer focused on system programming, backend systems, and infrastructure.
 
