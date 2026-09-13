@@ -1,11 +1,9 @@
-#### Hi, I’m Henok (enochCodes)
+Hi, I’m Henok (enochCodes)
 
 I’m a Software Engineer focused on system programming, backend systems, and infrastructure.
-
 I build reliable, scalable, and production-grade software with strong interests in system design, distributed systems, low-level computing, and performance-minded engineering.
 
 I’m currently exploring quantum computing, AI systems, and next-generation computing paradigms.
-
 My long-term goal is to contribute to important technologies in computing and help build systems that create real, lasting impact.
 
 Reach me on [LinkedIn](https://linkedin.com/in/henoksamson).
