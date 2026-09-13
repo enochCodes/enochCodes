@@ -24,9 +24,9 @@ Reach me on [LinkedIn](https://linkedin.com/in/henoksamson).
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=enochCodes&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henok_Samson-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henoksamson)
